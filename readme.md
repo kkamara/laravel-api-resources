@@ -88,7 +88,7 @@ php artisan serve --port=3000
 }
 ```
 
-[See fix in Laravel API Resources 2](https://github.com/kkamara/laravel-api-resources-2).
+[See fix in Laravel API Resources 2](https://github.com/kkamara/laravel-api-resources-2?tab=readme-ov-file#we-get-the-following-successful-response-for-getallusers-request).
 
 ## Api Documentation
 
